@@ -17,7 +17,7 @@ session_service = DatabaseSessionService(db_url=db_url)
 # ===== PART 2: Define Initial State =====
 # This will only be used when creating a new session
 initial_state = {
-    "user_name": "Brandon Hancock",
+    "user_name": "Andras Jozsa",
     "reminders": [],
 }
 
